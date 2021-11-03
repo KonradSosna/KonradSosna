@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonradSosna
 - 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently woring with React
 - 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me: via mailto: konrad.sosna.95@gmail.com
 
