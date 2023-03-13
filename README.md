@@ -9,7 +9,7 @@
 <br />
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=KonradSosna&theme=radical&show_icons=true" alt="KonradSosna Stats" width="420"/></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KonradSosna&theme=radical&show_icons=true" alt="KonradSosna Stats" width="420"/></br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonradSosna&theme=radical&hide_progress=true" alt="KonradSosna Languages" height="165">
 </p>
 
