@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats-beryl.vercel.app/api?username=KonradSosna&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="KonradSosna Stats" width="420"/>&nbsp;
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KonradSosna=anuraghazra&theme=radical&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonradSosna=anuraghazra&theme=radical&show_icons=true)
   &nbsp;
   <img src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=KonradSosna&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="KonradSosna Languages" height="165">
 </p>
