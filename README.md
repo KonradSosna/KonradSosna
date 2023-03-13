@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KonradSosna
-- 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently working with React
-- 💞️ I’m looking to collaborate on any web project
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently working with React | TypeScript
+- 💞️ I’m looking to collaborate on a web project
 - 📫 How to reach me: via mailto: konrad.sosna.95@gmail.com or  <a href="https://www.linkedin.com/in/konrad-sosna/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 <summary>📈 My GitHub Stats</summary>
